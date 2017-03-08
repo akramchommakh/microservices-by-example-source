@@ -1,2 +1,3 @@
 clear test
+ok
 hello mister
