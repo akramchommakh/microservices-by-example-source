@@ -1,3 +1,5 @@
 clear test
 ok
 hello mister
+test5
+test6
